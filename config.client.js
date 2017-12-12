@@ -1,5 +1,5 @@
 module.exports = {
   api: {
-    host: 'develop.com'
+    host: 'production.com'
   }
 }
